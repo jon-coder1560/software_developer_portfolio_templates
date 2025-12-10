@@ -1,4 +1,5 @@
 # 🌐 Portfolio Website Template
+#### ~ 3 templates will be live by Dec. 18
 
 A simple, clean, and fully customizable **portfolio website template** built with HTML, CSS, and JavaScript.  
 Perfect for developers, students, or anyone who wants a professional online presence without starting from scratch.
